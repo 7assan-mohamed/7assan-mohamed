@@ -71,4 +71,4 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)
 
 ### GitHub Statistics:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/7assan-mohamed?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
+![GitHub Streak](https://streak-stats.demolab.com?user=7assan-mohamed&theme=tokyonight)
